@@ -1,0 +1,17 @@
+sinema bileti algoritması
+
+sinema için bilet arayan müşteriler sisteme girdiğinde öncelikle isim soy isim ve ardından doğum tarihlerini ve günümüzdeki yılı gireceklerdir.
+
+ardından sistem eğer kişi 18 yaşından küçükse müşteri için öğrenci bileti kesecek ve 50 tl ücret isteyecektir.
+
+eğer kişi 18 yaşından büyükse müşteri için yetişkin bileti kesecek ve 80 tl ücret isteyecektir.
+
+ardından ödeme tipi sorulacak eğer nakit ödeme seçilirse ücrette yarı yarıya indirime gidilecektir.
+
+eğer kartla ödeme seçilirse ücrette 20 tl indirim yapılacaktır.
+
+en sonunda toplam ücret gözükecek ödendiği takdirde müşteriye bileti verilecektir.
+
+eğer cepte kalan para yeterliyse müşteri patlamış mısır içecek gibi ürünlerden birden fazla alabilecektir. Eğer daha fazla yiyecek almak isterse sisteme para yüklemesi gerekecektir.
+
+girilen yaş tanımlanmaz ise sistem kullanıcıyı tekrar en başa atacaktır.
